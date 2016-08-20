@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.oneapm.jsoup_cwl.AppTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\dev\java\jdk1.8.0_45\jre\bin"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="G:\workspace\sts-3.6.4.RELEASE\jsoup-cwl"/>
+    <property name="java.runtime.version" value="1.8.0_45-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\dev\java\jdk1.8.0_45\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\shengjie\AppData\Local\Temp\3\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="D:/dev/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\dev\java\jdk1.8.0_45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\shengjie\bin;D:\dev\Git\mingw64\bin;D:\dev\Git\usr\local\bin;D:\dev\Git\usr\bin;D:\dev\Git\usr\bin;D:\dev\Git\mingw64\bin;D:\dev\Git\usr\bin;C:\Users\shengjie\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\NetSarang;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\dev\scala\bin;D:\dev\java\jdk1.8.0_45\bin;D:\dev\java\jdk1.8.0_45\jre\bin;D:\dev\mysql\MySQL Utilities 1.4.3;D:\dev\mysql\MySQL Utilities 1.4.3\Doctrine extensions for PHP;D:\dev\maven\bin;D:\dev\ant\bin;D:\dev\mysql\MySQL Server 5.6\bin;%NDB_HOME%\bin;E:\protobuf\protoc-2.5.0-win32;D:\dev\VisualSVN Server\bin;D:\dev\WinMerge;D:\dev\Subversion\bin;D:\dev\MIT\Kerberos\bin;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin;D:\dev\Microsoft Visual Studio 10.0\VC\bin;C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\vcpackages;C:\Program Files\Microsoft Windows Performance Toolkit;D:\dev\scala\bin;D:\dev\sbt\bin;D:\dev\Microsoft VS Code\bin;C:\Users\shengjie\AppData\Local\atom\bin;D:\dev\Git\usr\bin\vendor_perl;D:\dev\Git\usr\bin\core_perl;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\shengjie"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="shengjie"/>
+    <property name="java.class.path" value="D:/dev/maven/boot/plexus-classworlds-2.4.2.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\dev\java\jdk1.8.0_45\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="java.ext.dirs" value="D:\dev\java\jdk1.8.0_45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\dev\java\jdk1.8.0_45\jre\lib\resources.jar;D:\dev\java\jdk1.8.0_45\jre\lib\rt.jar;D:\dev\java\jdk1.8.0_45\jre\lib\sunrsasign.jar;D:\dev\java\jdk1.8.0_45\jre\lib\jsse.jar;D:\dev\java\jdk1.8.0_45\jre\lib\jce.jar;D:\dev\java\jdk1.8.0_45\jre\lib\charsets.jar;D:\dev\java\jdk1.8.0_45\jre\lib\jfr.jar;D:\dev\java\jdk1.8.0_45\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\dev\maven"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.oneapm.jsoup_cwl.AppTest" name="testApp" time="0.003"/>
+</testsuite>
